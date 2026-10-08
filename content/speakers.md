@@ -7,73 +7,46 @@ title: "Invited Speakers"
 <div class="list-of-people">
   <div class="person">
     <div class="photo">
-      <img src="/speakers/jay.jpeg" alt="James McClelland">
+      <img src="/speakers/talia.jpg" alt="Talia Konkle">
     </div>
     <div class="details">
-      <a href="https://web.stanford.edu/~jlmcc/" target="_blank">James McClelland</a>
-      <div class="talk-title">
-        Do Language Models have Thoughts? A Cognitive Neuroscientist’s Perspective
-      </div>
+      <a href="https://konklab.fas.harvard.edu/" target="_blank">Talia Konkle</a>
     </div>
   </div>
 
   <div class="person">
     <div class="photo">
-      <img src="/speakers/chris.jpg" alt="Christopher Potts">
+      <img src="/speakers/andrew.jpg" alt="Andrew Lampinen">
     </div>
     <div class="details">
-      <a href="https://stanford.edu/~cgpotts/" target="_blank">Christopher Potts</a>
-      <div class="talk-title">
-        Reassessing Stimulus Poverty Arguments using Causal Interpretability Methods
-      </div>
+      <a href="https://lampinen.github.io/" target="_blank">Andrew Lampinen</a>
     </div>
   </div>
 
   <div class="person">
     <div class="photo">
-      <img src="/speakers/stephanie.jpeg" alt="Stephanie Chan">
+      <img src="/speakers/aaron.jpg" alt="Aaron Mueller">
     </div>
     <div class="details">
-      <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ" target="_blank">Stephanie Chan</a>
-      <div class="talk-title">
-        Connecting Across Different Timescales of Learning in Transformers
-      </div>
+      <a href="https://aaronmueller.github.io/" target="_blank">Aaron Mueller</a>
     </div>
   </div>
 
   <div class="person">
     <div class="photo">
-      <img src="/speakers/erin.jpg" alt="Erin Grant">
+      <img src="/speakers/mor.jpg" alt="Mor Geva">
     </div>
     <div class="details">
-      <a href="https://eringrant.github.io" target="_blank">Erin Grant</a>
-      <div class="talk-title">
-        Is Representational Alignment Enough?
-      </div>
+      <a href="https://mega002.github.io/" target="_blank">Mor Geva</a>
     </div>
   </div>
 
   <div class="person">
     <div class="photo">
-      <img src="/speakers/ari.jpg" alt="Ari Holtzman">
+      <img src="/speakers/raphael.jpg" alt="Raphaël Millière">
     </div>
     <div class="details">
-      <a href="https://ariholtzman.com/" target="_blank">Ari Holtzman</a>
-      <div class="talk-title">
-        Seeing Like a Language Model
-      </div>
-    </div>
-  </div>
-
-  <div class="person">
-    <div class="photo">
-      <img src="/speakers/sydney.jpg" alt="Sydney Levine">
-    </div>
-    <div class="details">
-      <a href="https://sites.google.com/site/sydneymlevine/" target="_blank">Sydney Levine</a>
-      <div class="talk-title">
-        Using Cognitive Models of Human Moral Judgment in AI Development
-      </div>
+      <a href="https://raphaelmilliere.com/" target="_blank">Raphaël Millière</a>
     </div>
   </div>
 </div>

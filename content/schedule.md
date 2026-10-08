@@ -5,7 +5,7 @@ title: "Schedule and Format"
 
 # Workshop Schedule
 
-A tentative schedule of events is given below. The program includes a mix of invited and contributed spotlight talks, as well as interactive activities such as a poster session, built-in breaks for socializing, and a panel discussion.
+A proposed schedule of events is given below. The program includes a mix of invited and contributed spotlight talks, as well as interactive activities such as a poster session, built-in breaks for socializing, and a panel discussion.
 
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
@@ -27,11 +27,11 @@ A tentative schedule of events is given below. The program includes a mix of inv
     </tr>
     <tr class="invited">
         <td>09:00 - 09:30</td>
-        <td>Invited Talk 1: Chris Potts</td>
+        <td>Invited Talk 1</td>
     </tr>
     <tr class="invited">
         <td>09:30 - 10:00</td>
-        <td>Invited Talk 2: Stephanie Chan</td>
+        <td>Invited Talk 2</td>
     </tr>
     <tr class="contributed">
         <td>10:00 - 10:10</td>
@@ -49,11 +49,11 @@ A tentative schedule of events is given below. The program includes a mix of inv
     <!--  -->
     <tr class="invited">
         <td>10:30 - 11:00</td>
-        <td>Invited Talk 3: Ari Holtzman</td>
+        <td>Invited Talk 3</td>
     </tr>
     <tr class="invited">
         <td>11:00 - 11:30</td>
-        <td>Invited Talk 4: Erin Grant</td>
+        <td>Invited Talk 4</td>
     </tr>
     <tr class="contributed">
         <td>11:30 - 11:40</td>
@@ -77,11 +77,11 @@ A tentative schedule of events is given below. The program includes a mix of inv
     <!--  -->
     <tr class="invited">
         <td>14:45 - 15:15</td>
-        <td>Invited Talk 5: Jay McClelland</td>
+        <td>Invited Talk 5</td>
     </tr>
     <tr class="invited">
         <td>15:15 - 15:45</td>
-        <td>Invited Talk 6: Sydney Levine</td>
+        <td>Invited Talk 6</td>
     </tr>
     <tr class="break">
         <td>15:45 - 16:00</td>
@@ -103,22 +103,22 @@ A tentative schedule of events is given below. The program includes a mix of inv
 </table>
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;">
-    <em>All times are for current local time in San Diego, USA.</em>
+    <em>All times are for current local time in San Francisco, USA.</em>
 </div>
 
-<br>
-
+<!-- Spotlight talk titles, once papers are accepted:
 <ul>
-    <li> <b>Spotlight Talk 1</b>: Culturally transmitted color categories in LLMs reflect a learning bias toward efficient compression</li>
-    <li> <b>Spotlight Talk 2</b>: Interpretable Hybrid Neural-Cognitive Models Discover Cognitive Strategies Underlying Flexible Reversal Learning</li>
-    <li> <b>Spotlight Talk 3</b>: Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs</li>
-    <li> <b>Spotlight Talk 4</b>: Mechanisms of Symbol Processing in Transformers</li>
+    <li> <b>Spotlight Talk 1</b>: TBA</li>
+    <li> <b>Spotlight Talk 2</b>: TBA</li>
+    <li> <b>Spotlight Talk 3</b>: TBA</li>
+    <li> <b>Spotlight Talk 4</b>: TBA</li>
 </ul>
+-->
 
 
 ## Format
 
-The workshop is part of NeurIPS and all attendees are requied to register for NeurIPS.
+The workshop is part of ICLR and all attendees are required to register for ICLR.
 
 All talks, including the Panel Discussion, will be live-streamed virtually for those who are unable to attend in person.
 

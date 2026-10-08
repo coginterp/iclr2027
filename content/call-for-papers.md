@@ -33,9 +33,9 @@ behaviors expected of a rational agent performing such tasks?
 
 ## Submission
 
-The submission will be open on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/CogInterp) between July 9 and August <s><span style="color: silver">22</span></s> 27, 2025 (midnight AoE). For all relevant dates, please see [Important Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
+The submission will be open on [OpenReview](https://openreview.net/group?id=ICLR.cc/2027/Workshop/CogInterp) until February 1, 2027 (midnight AoE). For all relevant dates, please see [Important Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
 
-Submissions will be double-blind reviewed. Dual submissions are acceptable, including submitting to other NeurIPS workshops.
+Submissions will be double-blind reviewed. Dual submissions are acceptable, including submitting to other ICLR workshops.
 
 Please note that it will be requested that at least one author of each submission participates in reviewing for the workshop. 
 
@@ -43,7 +43,7 @@ Please note that it will be requested that at least one author of each submissio
 
 ## Code of Ethics and Conduct
 
-All participants of the workshop (including authors and reviewers) are required to adhere to the [NeurIPS Code of Ethics](https://neurips.cc/public/EthicsGuidelines) and [NeurIPS Code of Conduct](https://neurips.cc/public/CodeOfConduct).
+All participants of the workshop (including authors and reviewers) are required to adhere to the [ICLR Code of Ethics](https://iclr.cc/public/CodeOfEthics) and [ICLR Code of Conduct](https://iclr.cc/public/CodeOfConduct).
 
 
 ---
@@ -52,7 +52,7 @@ All participants of the workshop (including authors and reviewers) are required 
 
 ## Style & Author Instructions
 
-Submissions should be formatted using the [NeurIPS 2025 latex template and formatting instructions](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Filling out the submission checklist is not required. Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera-ready version. There is no page limit for the citations, and additional appendices for supplementary details are allowed, but reviewers are not expected to take the appendices into account.
+Submissions should be formatted using the [ICLR 2027 latex template and formatting instructions](https://github.com/ICLR/Master-Template/raw/master/iclr2027.zip). Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera-ready version. There is no page limit for the citations, and additional appendices for supplementary details are allowed, but reviewers are not expected to take the appendices into account.
 
 
 ## Camera-Ready Revisions 

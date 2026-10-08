@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/neurips2025/accepted-papers/</loc>
+    <loc>https://coginterp.github.io/iclr2027/accepted-papers/</loc>
   </url><url>
-    <loc>http://localhost:1313/neurips2025/call-for-papers/</loc>
+    <loc>https://coginterp.github.io/iclr2027/call-for-papers/</loc>
   </url><url>
-    <loc>http://localhost:1313/neurips2025/formatting-instructions/</loc>
+    <loc>https://coginterp.github.io/iclr2027/formatting-instructions/</loc>
   </url><url>
-    <loc>http://localhost:1313/neurips2025/</loc>
+    <loc>https://coginterp.github.io/iclr2027/</loc>
   </url><url>
-    <loc>http://localhost:1313/neurips2025/speakers/</loc>
+    <loc>https://coginterp.github.io/iclr2027/speakers/</loc>
   </url><url>
-    <loc>http://localhost:1313/neurips2025/organizers-reviewers/</loc>
+    <loc>https://coginterp.github.io/iclr2027/organizers-reviewers/</loc>
   </url><url>
-    <loc>http://localhost:1313/neurips2025/reviewers/</loc>
+    <loc>https://coginterp.github.io/iclr2027/reviewers/</loc>
   </url><url>
-    <loc>http://localhost:1313/neurips2025/schedule/</loc>
+    <loc>https://coginterp.github.io/iclr2027/schedule/</loc>
   </url>
 </urlset>

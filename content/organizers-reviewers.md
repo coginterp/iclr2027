@@ -6,39 +6,36 @@ title: "Organizers"
 
 <div class="list-of-people">
     <div class="person">
-        <img src="/organizing-team/jenn.png">
-        <a href="https://jennhu.github.io" target="_blank">Jennifer Hu</a>
+        <img src="/organizing-team/anna.jpg">
+        <a href="https://annaleshinskaya.com" target="_blank">Anna Leshinskaya</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/ekdeep.jpeg">
-        <a href="https://ekdeepslubana.github.io" target="_blank">Ekdeep Singh Lubana</a>
+        <img src="/organizing-team/daniel.jpeg">
+        <a href="https://scholar.google.com/citations?user=-x5aBUYAAAAJ" target="_blank">Daniel Wurgaft</a>
     </div>
     <div class="person">
         <img src="/organizing-team/eric.jpg">
-        <a href="https://scholar.google.com/citations?user=wpppofoAAAAJ" target="_blank">Eric Bigelow</a>
-    </div>
-    <!--  -->
-    <!-- TODO: images for each of these -->
-    <!--  -->
-    <div class="person">
-        <img src="/organizing-team/kanishk.jpeg">
-        <a href="https://www.kanishkgandhi.com" target="_blank">Kanishk Gandhi</a>
+        <a href="https://ebig.cc" target="_blank">Eric Bigelow</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/laura.jpg">
-        <a href="https://lauraruis.github.io" target="_blank">Laura Ruis</a>
+        <img src="/organizing-team/nikhil.jpg">
+        <a href="https://nix07.github.io" target="_blank">Nikhil Prakash</a>
+    </div>
+    <div class="person">
+        <img src="/organizing-team/jojo.jpg">
+        <a href="https://scholar.google.com/citations?user=rFDpFgsAAAAJ" target="_blank">Jojo Zhuonan Yang </a>
     </div>
     <div class="person">
         <img src="/organizing-team/thomas.png">
         <a href="https://thomasfel.me" target="_blank">Thomas Fel</a>
     </div>
+        <div class="person">
+        <img src="/organizing-team/jenn.png">
+        <a href="https://jennhu.github.io" target="_blank">Jennifer Hu</a>
+    </div>
     <div class="person">
         <img src="/organizing-team/ellie.jpg">
         <a href="https://cs.brown.edu/people/epavlick/" target="_blank">Ellie Pavlick</a>
-    </div>
-    <div class="person">
-        <img src="/organizing-team/noah.jpeg">
-        <a href="https://cocolab.stanford.edu/ndg" target="_blank">Noah Goodman</a>
     </div>
 </div>
 

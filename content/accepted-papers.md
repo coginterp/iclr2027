@@ -5,6 +5,10 @@ title: "Accepted Papers"
 
 # Accepted Papers
 
+Accepted papers will be listed here after the notification date. See [Important Dates]({{< ref "/#dates" >}}).
+
+<!-- Accepted papers from the NeurIPS 2025 edition, kept as a template:
+
 
 <div>
 <b>Spotlight Talks</b>
@@ -193,3 +197,4 @@ title: "Accepted Papers"
 <br><br>
 
 </div>
+-->

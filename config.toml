@@ -1,17 +1,17 @@
 # Global options
-baseurl = "https://coginterp.github.io/neurips2025"
+baseurl = "https://coginterp.github.io/iclr2027"
 canonifyurls = true
 languagecode = "en"
-theme = ["coginterp-neurips2025-theme"]
+theme = ["coginterp-iclr2027-theme"]
 disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "First Workshop on"
+  supertitle = "Second Workshop on"
   title = "<b>CogInterp</b>: Interpreting Cognition <br> in Deep Learning Models"
-  subtitle = "December 7, 2025 @ NeurIPS 2025"
+  subtitle = "April 29 or 30, 2027 @ ICLR 2027"
   author = "CogInterp Organizers"
-  description = "First Workshop on Interpreting Cognition in Deep Learning Models (NeurIPS 2025)"
+  description = "Second Workshop on Interpreting Cognition in Deep Learning Models (ICLR 2027)"
   keywords = ["workshop", "AI interpretability", "cognitive science"]
 
 # Options for Markdown renderer
@@ -28,10 +28,11 @@ disableKinds = ["taxonomyTerm"]
     name = "Call for Papers"
     url  = "/call-for-papers"
     weight = 2
-[[menu.main]]
-    name = "Accepted Papers"
-    url  = "/accepted-papers"
-    weight = 3
+# Uncomment once papers are accepted
+# [[menu.main]]
+#     name = "Accepted Papers"
+#     url  = "/accepted-papers"
+#     weight = 3
 [[menu.main]]
     name = "Schedule"
     url  = "/schedule"
